@@ -4,11 +4,12 @@ This is the final project for Delivering Data Management Applications Using DOM 
 
 Fitur-Fitur 🌟
 ---
-* Menambahkan data buku
+* Menambahkan data buku baru
+* Memiliki dua rak buku
 * Memindahkan buku antar rak
-* Mengedit data buku
 * Menghapus data buku
 * Memfilter buku yang ditampilkan bedasarkan judul buku
+* Menggunakan localstorage untuk menyimpan data buku
 
 Screenshoot 📸
 ---
