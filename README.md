@@ -8,7 +8,7 @@ Fitur-Fitur 🌟
 * Memiliki dua rak buku
 * Memindahkan buku antar rak
 * Menghapus data buku
-* Memfilter buku yang ditampilkan bedasarkan judul buku
+* Memfilter buku yang ditampilkan berdasarkan judul buku
 * Menggunakan localstorage untuk menyimpan data buku
 
 Screenshoot 📸
